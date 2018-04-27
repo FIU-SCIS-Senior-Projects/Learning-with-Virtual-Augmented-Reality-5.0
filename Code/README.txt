@@ -4,3 +4,4 @@ https://drive.google.com/open?id=1cw3RqGU6mhcPhiftThOFhc8PNk-4TBim
 
 To open the project with Unity:
 -Locate the Unity scene file called "First" in the following directory of the downloadble file above "SeniorProject - VR\Assets"
+-The project should open in Unity now.
